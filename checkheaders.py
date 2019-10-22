@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
 import requests,sys
 requestHeaders = ["Strict-Transport-Security","X-Xss-Protection","X-Content-Type-Options","X-Frame-Options","Content-Security-Policy","Public-Key-Pins"]
